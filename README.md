@@ -5,7 +5,7 @@ Code challenge response for RxSS - candidate: Morgan Sonnenschein
 ## Setup
 Clone the project: `git clone https://github.com/msonnenschein/closest-pharmacy.git`.
 
-Be sure you're using Java 11+.
+Be sure you have a Java 11+ JDK installed.
 
 ## Starting the server
 There are two ways to run the project once you clone it:

@@ -7,5 +7,5 @@ import lombok.Data;
 public class PharmacyLocationResult {
   private final String name;
   private final Address address;
-  private final double distance;
+  private final double distanceInMiles;
 }
