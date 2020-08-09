@@ -3,12 +3,14 @@
 Code challenge response for RxSS - candidate: Morgan Sonnenschein
 
 ## Setup
-Clone the project: `git clone https://github.com/msonnenschein/closest-pharmacy.git`
+Clone the project: `git clone https://github.com/msonnenschein/closest-pharmacy.git`.
+
+Be sure you're using Java 11+.
 
 ## Starting the server
 There are two ways to run the project once you clone it:
 
-1. Run `mvn clean spring-boot:run`. This will start running a server at `localhost:8080` by default.
+1. Run `mvnw clean spring-boot:run` (on Windows) or `./mvnw clean spring-boot:run` (on Linux). This will start running a server at `localhost:8080` by default.
 2. Run `java -jar closest-pharmacy-0.0.1-SNAPSHOT.jar`. This will also start running a server at `localhost:8080` by default.
 
 ## How to use
